@@ -1,4 +1,4 @@
-# Molecular Graph Node-Level Classificationwith PyTorch Geometric
+# Molecular Graph Node-Level Classification with PyTorch Geometric
 
 This repository contains a PyTorch Geometric implementation for node-level classificationon molecular graphs. It leverages RDKit for molecular processing and feature extraction, and PyTorch Geometric for building and training graph neural network models.
 
