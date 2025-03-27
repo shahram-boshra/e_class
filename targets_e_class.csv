@@ -1,0 +1,1887 @@
+MoleculeName,BondID,EdgeTarget
+1-Naphthol,"(0, 1)",0
+1-Naphthol,"(1, 2)",1
+1-Naphthol,"(1, 10)",1
+1-Naphthol,"(2, 3)",1
+1-Naphthol,"(3, 4)",0
+1-Naphthol,"(4, 5)",0
+1-Naphthol,"(5, 6)",1
+1-Naphthol,"(5, 10)",1
+1-Naphthol,"(6, 7)",0
+1-Naphthol,"(7, 8)",0
+1-Naphthol,"(8, 9)",0
+1-Naphthol,"(9, 10)",0
+1-Naphthol,"(0, 11)",1
+1-Naphthol,"(2, 12)",1
+1-Naphthol,"(3, 13)",1
+1-Naphthol,"(4, 14)",0
+1-Naphthol,"(6, 15)",1
+1-Naphthol,"(7, 16)",0
+1-Naphthol,"(8, 17)",1
+1-Naphthol,"(9, 18)",0
+1-Naphthylamine,"(0, 1)",1
+1-Naphthylamine,"(0, 5)",1
+1-Naphthylamine,"(1, 2)",1
+1-Naphthylamine,"(2, 3)",1
+1-Naphthylamine,"(3, 4)",0
+1-Naphthylamine,"(3, 9)",1
+1-Naphthylamine,"(4, 5)",0
+1-Naphthylamine,"(4, 6)",1
+1-Naphthylamine,"(6, 7)",0
+1-Naphthylamine,"(7, 8)",0
+1-Naphthylamine,"(8, 9)",1
+1-Naphthylamine,"(9, 10)",0
+1-Naphthylamine,"(0, 11)",1
+1-Naphthylamine,"(1, 12)",0
+1-Naphthylamine,"(2, 13)",1
+1-Naphthylamine,"(5, 14)",0
+1-Naphthylamine,"(6, 15)",1
+1-Naphthylamine,"(7, 16)",1
+1-Naphthylamine,"(8, 17)",0
+1-Naphthylamine,"(10, 18)",1
+1-Naphthylamine,"(10, 19)",0
+1-Phenylpropane,"(0, 1)",1
+1-Phenylpropane,"(0, 5)",1
+1-Phenylpropane,"(1, 2)",0
+1-Phenylpropane,"(2, 3)",1
+1-Phenylpropane,"(3, 4)",0
+1-Phenylpropane,"(4, 5)",0
+1-Phenylpropane,"(5, 6)",1
+1-Phenylpropane,"(6, 7)",1
+1-Phenylpropane,"(7, 8)",1
+1-Phenylpropane,"(0, 9)",1
+1-Phenylpropane,"(1, 10)",0
+1-Phenylpropane,"(2, 11)",1
+1-Phenylpropane,"(3, 12)",1
+1-Phenylpropane,"(4, 13)",1
+1-Phenylpropane,"(6, 14)",0
+1-Phenylpropane,"(6, 15)",1
+1-Phenylpropane,"(7, 16)",0
+1-Phenylpropane,"(7, 17)",1
+1-Phenylpropane,"(8, 18)",1
+1-Phenylpropane,"(8, 19)",0
+1-Phenylpropane,"(8, 20)",1
+12-Dichlorobenzene,"(0, 2)",1
+12-Dichlorobenzene,"(1, 3)",0
+12-Dichlorobenzene,"(2, 3)",0
+12-Dichlorobenzene,"(2, 5)",0
+12-Dichlorobenzene,"(3, 4)",0
+12-Dichlorobenzene,"(4, 6)",1
+12-Dichlorobenzene,"(5, 7)",0
+12-Dichlorobenzene,"(6, 7)",1
+12-Dichlorobenzene,"(4, 8)",1
+12-Dichlorobenzene,"(5, 9)",1
+12-Dichlorobenzene,"(6, 10)",0
+12-Dichlorobenzene,"(7, 11)",1
+13-Dichlorobenzene,"(0, 1)",1
+13-Dichlorobenzene,"(0, 5)",1
+13-Dichlorobenzene,"(1, 2)",0
+13-Dichlorobenzene,"(2, 3)",1
+13-Dichlorobenzene,"(2, 7)",0
+13-Dichlorobenzene,"(3, 4)",0
+13-Dichlorobenzene,"(4, 5)",1
+13-Dichlorobenzene,"(4, 6)",0
+13-Dichlorobenzene,"(0, 8)",0
+13-Dichlorobenzene,"(1, 9)",1
+13-Dichlorobenzene,"(3, 10)",0
+13-Dichlorobenzene,"(5, 11)",0
+14-Dichlorobenzene,"(0, 2)",0
+14-Dichlorobenzene,"(1, 3)",1
+14-Dichlorobenzene,"(2, 4)",1
+14-Dichlorobenzene,"(2, 6)",0
+14-Dichlorobenzene,"(3, 5)",1
+14-Dichlorobenzene,"(3, 7)",1
+14-Dichlorobenzene,"(4, 5)",0
+14-Dichlorobenzene,"(6, 7)",1
+14-Dichlorobenzene,"(4, 8)",0
+14-Dichlorobenzene,"(5, 9)",1
+14-Dichlorobenzene,"(6, 10)",0
+14-Dichlorobenzene,"(7, 11)",0
+2-Aminoacetophenone,"(0, 1)",1
+2-Aminoacetophenone,"(1, 2)",0
+2-Aminoacetophenone,"(2, 3)",1
+2-Aminoacetophenone,"(2, 4)",1
+2-Aminoacetophenone,"(4, 5)",0
+2-Aminoacetophenone,"(4, 9)",1
+2-Aminoacetophenone,"(5, 6)",1
+2-Aminoacetophenone,"(6, 7)",1
+2-Aminoacetophenone,"(7, 8)",1
+2-Aminoacetophenone,"(8, 9)",0
+2-Aminoacetophenone,"(0, 10)",0
+2-Aminoacetophenone,"(0, 11)",0
+2-Aminoacetophenone,"(1, 12)",0
+2-Aminoacetophenone,"(1, 13)",0
+2-Aminoacetophenone,"(5, 14)",0
+2-Aminoacetophenone,"(6, 15)",0
+2-Aminoacetophenone,"(7, 16)",0
+2-Aminoacetophenone,"(8, 17)",0
+2-Aminoacetophenone,"(9, 18)",0
+2-Aminophenol,"(0, 1)",0
+2-Aminophenol,"(1, 2)",1
+2-Aminophenol,"(1, 6)",1
+2-Aminophenol,"(2, 3)",0
+2-Aminophenol,"(3, 4)",1
+2-Aminophenol,"(4, 5)",0
+2-Aminophenol,"(5, 6)",1
+2-Aminophenol,"(6, 7)",0
+2-Aminophenol,"(0, 8)",1
+2-Aminophenol,"(0, 9)",0
+2-Aminophenol,"(2, 10)",1
+2-Aminophenol,"(3, 11)",1
+2-Aminophenol,"(4, 12)",1
+2-Aminophenol,"(5, 13)",1
+2-Aminophenol,"(7, 14)",1
+2-Aminotoluene,"(0, 1)",1
+2-Aminotoluene,"(1, 2)",0
+2-Aminotoluene,"(1, 6)",0
+2-Aminotoluene,"(2, 3)",0
+2-Aminotoluene,"(3, 4)",1
+2-Aminotoluene,"(4, 5)",0
+2-Aminotoluene,"(4, 7)",0
+2-Aminotoluene,"(5, 6)",1
+2-Aminotoluene,"(7, 8)",0
+2-Aminotoluene,"(7, 9)",1
+2-Aminotoluene,"(0, 10)",1
+2-Aminotoluene,"(0, 11)",0
+2-Aminotoluene,"(0, 12)",0
+2-Aminotoluene,"(2, 13)",0
+2-Aminotoluene,"(3, 14)",0
+2-Aminotoluene,"(5, 15)",0
+2-Aminotoluene,"(6, 16)",1
+2-Bromoaniline,"(0, 1)",0
+2-Bromoaniline,"(0, 5)",0
+2-Bromoaniline,"(1, 2)",0
+2-Bromoaniline,"(2, 3)",0
+2-Bromoaniline,"(3, 4)",1
+2-Bromoaniline,"(3, 7)",1
+2-Bromoaniline,"(4, 5)",1
+2-Bromoaniline,"(4, 6)",0
+2-Bromoaniline,"(0, 8)",0
+2-Bromoaniline,"(1, 9)",0
+2-Bromoaniline,"(2, 10)",1
+2-Bromoaniline,"(5, 11)",1
+2-Bromoaniline,"(7, 12)",1
+2-Bromoaniline,"(7, 13)",0
+2-Chloroaniline,"(0, 1)",0
+2-Chloroaniline,"(1, 2)",1
+2-Chloroaniline,"(1, 6)",1
+2-Chloroaniline,"(2, 3)",1
+2-Chloroaniline,"(3, 4)",1
+2-Chloroaniline,"(4, 5)",0
+2-Chloroaniline,"(5, 6)",1
+2-Chloroaniline,"(6, 7)",1
+2-Chloroaniline,"(0, 8)",1
+2-Chloroaniline,"(0, 9)",0
+2-Chloroaniline,"(2, 10)",1
+2-Chloroaniline,"(3, 11)",1
+2-Chloroaniline,"(4, 12)",0
+2-Chloroaniline,"(5, 13)",0
+2-Chlorobiphenyl,"(0, 1)",0
+2-Chlorobiphenyl,"(1, 2)",0
+2-Chlorobiphenyl,"(1, 6)",1
+2-Chlorobiphenyl,"(2, 3)",1
+2-Chlorobiphenyl,"(3, 4)",1
+2-Chlorobiphenyl,"(4, 5)",0
+2-Chlorobiphenyl,"(4, 7)",1
+2-Chlorobiphenyl,"(5, 6)",1
+2-Chlorobiphenyl,"(7, 8)",0
+2-Chlorobiphenyl,"(7, 12)",1
+2-Chlorobiphenyl,"(8, 9)",1
+2-Chlorobiphenyl,"(9, 10)",1
+2-Chlorobiphenyl,"(10, 11)",0
+2-Chlorobiphenyl,"(11, 12)",0
+2-Chlorobiphenyl,"(0, 13)",0
+2-Chlorobiphenyl,"(0, 14)",1
+2-Chlorobiphenyl,"(2, 15)",0
+2-Chlorobiphenyl,"(3, 16)",0
+2-Chlorobiphenyl,"(5, 17)",0
+2-Chlorobiphenyl,"(6, 18)",1
+2-Chlorobiphenyl,"(8, 19)",0
+2-Chlorobiphenyl,"(9, 20)",0
+2-Chlorobiphenyl,"(10, 21)",0
+2-Chlorobiphenyl,"(11, 22)",1
+2-Chlorobiphenyl,"(12, 23)",1
+2-Chlorophenol,"(0, 1)",1
+2-Chlorophenol,"(0, 2)",0
+2-Chlorophenol,"(0, 7)",0
+2-Chlorophenol,"(1, 5)",0
+2-Chlorophenol,"(1, 6)",1
+2-Chlorophenol,"(2, 3)",0
+2-Chlorophenol,"(3, 4)",1
+2-Chlorophenol,"(4, 5)",0
+2-Chlorophenol,"(2, 8)",1
+2-Chlorophenol,"(3, 9)",0
+2-Chlorophenol,"(4, 10)",0
+2-Chlorophenol,"(5, 11)",0
+2-Chlorophenol,"(7, 12)",1
+2-EthylAniline,"(0, 1)",0
+2-EthylAniline,"(1, 2)",1
+2-EthylAniline,"(2, 3)",0
+2-EthylAniline,"(2, 7)",1
+2-EthylAniline,"(3, 4)",0
+2-EthylAniline,"(4, 5)",0
+2-EthylAniline,"(5, 6)",1
+2-EthylAniline,"(6, 7)",1
+2-EthylAniline,"(7, 8)",0
+2-EthylAniline,"(0, 9)",1
+2-EthylAniline,"(0, 10)",0
+2-EthylAniline,"(0, 11)",0
+2-EthylAniline,"(1, 12)",1
+2-EthylAniline,"(1, 13)",0
+2-EthylAniline,"(3, 14)",0
+2-EthylAniline,"(4, 15)",0
+2-EthylAniline,"(5, 16)",1
+2-EthylAniline,"(6, 17)",1
+2-EthylAniline,"(8, 18)",0
+2-EthylAniline,"(8, 19)",0
+2-Ethylphenol,"(0, 2)",0
+2-Ethylphenol,"(1, 2)",1
+2-Ethylphenol,"(1, 3)",1
+2-Ethylphenol,"(1, 5)",1
+2-Ethylphenol,"(2, 4)",1
+2-Ethylphenol,"(3, 6)",1
+2-Ethylphenol,"(4, 7)",0
+2-Ethylphenol,"(5, 8)",0
+2-Ethylphenol,"(6, 7)",0
+2-Ethylphenol,"(0, 9)",0
+2-Ethylphenol,"(3, 10)",1
+2-Ethylphenol,"(4, 11)",0
+2-Ethylphenol,"(5, 12)",0
+2-Ethylphenol,"(5, 13)",1
+2-Ethylphenol,"(6, 14)",1
+2-Ethylphenol,"(7, 15)",1
+2-Ethylphenol,"(8, 16)",0
+2-Ethylphenol,"(8, 17)",1
+2-Ethylphenol,"(8, 18)",1
+2-Iodoaniline,"(0, 1)",0
+2-Iodoaniline,"(0, 5)",1
+2-Iodoaniline,"(1, 2)",1
+2-Iodoaniline,"(2, 3)",0
+2-Iodoaniline,"(3, 4)",1
+2-Iodoaniline,"(3, 7)",0
+2-Iodoaniline,"(4, 5)",1
+2-Iodoaniline,"(4, 6)",0
+2-Iodoaniline,"(0, 8)",0
+2-Iodoaniline,"(1, 9)",0
+2-Iodoaniline,"(2, 10)",0
+2-Iodoaniline,"(5, 11)",0
+2-Iodoaniline,"(7, 12)",1
+2-Iodoaniline,"(7, 13)",0
+2-Isopropylphenol,"(0, 4)",1
+2-Isopropylphenol,"(0, 1)",0
+2-Isopropylphenol,"(1, 2)",0
+2-Isopropylphenol,"(2, 3)",0
+2-Isopropylphenol,"(3, 6)",1
+2-Isopropylphenol,"(4, 6)",0
+2-Isopropylphenol,"(4, 5)",0
+2-Isopropylphenol,"(6, 8)",1
+2-Isopropylphenol,"(7, 8)",1
+2-Isopropylphenol,"(8, 9)",1
+2-Isopropylphenol,"(0, 10)",1
+2-Isopropylphenol,"(1, 11)",1
+2-Isopropylphenol,"(2, 12)",1
+2-Isopropylphenol,"(3, 13)",1
+2-Isopropylphenol,"(5, 14)",0
+2-Isopropylphenol,"(7, 15)",1
+2-Isopropylphenol,"(7, 16)",0
+2-Isopropylphenol,"(7, 17)",1
+2-Isopropylphenol,"(8, 18)",1
+2-Isopropylphenol,"(9, 19)",1
+2-Isopropylphenol,"(9, 20)",0
+2-Isopropylphenol,"(9, 21)",0
+2-Methoxybenzaldehyde,"(0, 1)",1
+2-Methoxybenzaldehyde,"(1, 2)",1
+2-Methoxybenzaldehyde,"(2, 3)",1
+2-Methoxybenzaldehyde,"(2, 7)",1
+2-Methoxybenzaldehyde,"(3, 4)",0
+2-Methoxybenzaldehyde,"(4, 5)",0
+2-Methoxybenzaldehyde,"(5, 6)",1
+2-Methoxybenzaldehyde,"(6, 7)",0
+2-Methoxybenzaldehyde,"(7, 8)",1
+2-Methoxybenzaldehyde,"(8, 9)",1
+2-Methoxybenzaldehyde,"(0, 10)",0
+2-Methoxybenzaldehyde,"(0, 11)",1
+2-Methoxybenzaldehyde,"(0, 12)",1
+2-Methoxybenzaldehyde,"(3, 13)",1
+2-Methoxybenzaldehyde,"(4, 14)",0
+2-Methoxybenzaldehyde,"(5, 15)",1
+2-Methoxybenzaldehyde,"(6, 16)",0
+2-Methoxybenzaldehyde,"(8, 17)",0
+2-methylacetophenone,"(0, 1)",1
+2-methylacetophenone,"(0, 5)",1
+2-methylacetophenone,"(1, 2)",1
+2-methylacetophenone,"(2, 3)",0
+2-methylacetophenone,"(3, 4)",0
+2-methylacetophenone,"(4, 5)",1
+2-methylacetophenone,"(5, 6)",0
+2-methylacetophenone,"(6, 7)",0
+2-methylacetophenone,"(6, 8)",0
+2-methylacetophenone,"(8, 9)",1
+2-methylacetophenone,"(0, 10)",1
+2-methylacetophenone,"(1, 11)",1
+2-methylacetophenone,"(2, 12)",0
+2-methylacetophenone,"(3, 13)",0
+2-methylacetophenone,"(4, 14)",1
+2-methylacetophenone,"(8, 15)",1
+2-methylacetophenone,"(8, 16)",1
+2-methylacetophenone,"(9, 17)",1
+2-methylacetophenone,"(9, 18)",1
+2-methylacetophenone,"(9, 19)",1
+2-Methylaniline,"(0, 1)",1
+2-Methylaniline,"(1, 2)",1
+2-Methylaniline,"(1, 3)",0
+2-Methylaniline,"(2, 4)",0
+2-Methylaniline,"(2, 7)",1
+2-Methylaniline,"(3, 5)",1
+2-Methylaniline,"(4, 6)",0
+2-Methylaniline,"(5, 6)",0
+2-Methylaniline,"(0, 8)",1
+2-Methylaniline,"(0, 9)",0
+2-Methylaniline,"(3, 10)",1
+2-Methylaniline,"(4, 11)",0
+2-Methylaniline,"(5, 12)",1
+2-Methylaniline,"(6, 13)",1
+2-Methylaniline,"(7, 14)",1
+2-Methylaniline,"(7, 15)",1
+2-Methylaniline,"(7, 16)",0
+2-Naphthol,"(0, 1)",0
+2-Naphthol,"(0, 9)",0
+2-Naphthol,"(1, 2)",1
+2-Naphthol,"(2, 3)",1
+2-Naphthol,"(3, 4)",0
+2-Naphthol,"(3, 8)",0
+2-Naphthol,"(4, 5)",0
+2-Naphthol,"(5, 6)",0
+2-Naphthol,"(5, 10)",0
+2-Naphthol,"(6, 7)",0
+2-Naphthol,"(7, 8)",1
+2-Naphthol,"(8, 9)",1
+2-Naphthol,"(0, 11)",0
+2-Naphthol,"(1, 12)",0
+2-Naphthol,"(2, 13)",0
+2-Naphthol,"(4, 14)",0
+2-Naphthol,"(6, 15)",0
+2-Naphthol,"(7, 16)",1
+2-Naphthol,"(9, 17)",1
+2-Naphthol,"(10, 18)",1
+2-Naphthylamine,"(0, 1)",0
+2-Naphthylamine,"(1, 2)",1
+2-Naphthylamine,"(1, 10)",1
+2-Naphthylamine,"(2, 3)",1
+2-Naphthylamine,"(3, 4)",1
+2-Naphthylamine,"(4, 5)",0
+2-Naphthylamine,"(4, 9)",0
+2-Naphthylamine,"(5, 6)",1
+2-Naphthylamine,"(6, 7)",0
+2-Naphthylamine,"(7, 8)",0
+2-Naphthylamine,"(8, 9)",0
+2-Naphthylamine,"(9, 10)",1
+2-Naphthylamine,"(0, 11)",0
+2-Naphthylamine,"(0, 12)",0
+2-Naphthylamine,"(2, 13)",0
+2-Naphthylamine,"(3, 14)",1
+2-Naphthylamine,"(5, 15)",0
+2-Naphthylamine,"(6, 16)",0
+2-Naphthylamine,"(7, 17)",0
+2-Naphthylamine,"(8, 18)",0
+2-Naphthylamine,"(10, 19)",1
+2-Nitroaniline,"(0, 1)",1
+2-Nitroaniline,"(1, 2)",1
+2-Nitroaniline,"(1, 3)",1
+2-Nitroaniline,"(3, 4)",1
+2-Nitroaniline,"(3, 8)",0
+2-Nitroaniline,"(4, 5)",1
+2-Nitroaniline,"(5, 6)",0
+2-Nitroaniline,"(6, 7)",1
+2-Nitroaniline,"(7, 8)",1
+2-Nitroaniline,"(0, 9)",1
+2-Nitroaniline,"(0, 10)",0
+2-Nitroaniline,"(0, 11)",0
+2-Nitroaniline,"(2, 12)",0
+2-Nitroaniline,"(2, 13)",0
+2-Nitroaniline,"(2, 14)",0
+2-Nitroaniline,"(4, 15)",1
+2-Nitroaniline,"(5, 16)",1
+2-Nitroaniline,"(6, 17)",1
+2-Nitroaniline,"(7, 18)",0
+2-Nitroaniline,"(8, 19)",0
+2-Nitrobenzaldehyde,"(0, 1)",0
+2-Nitrobenzaldehyde,"(0, 5)",1
+2-Nitrobenzaldehyde,"(1, 2)",0
+2-Nitrobenzaldehyde,"(2, 3)",0
+2-Nitrobenzaldehyde,"(3, 4)",0
+2-Nitrobenzaldehyde,"(3, 8)",0
+2-Nitrobenzaldehyde,"(4, 5)",0
+2-Nitrobenzaldehyde,"(4, 6)",0
+2-Nitrobenzaldehyde,"(6, 7)",1
+2-Nitrobenzaldehyde,"(8, 9)",1
+2-Nitrobenzaldehyde,"(8, 10)",0
+2-Nitrobenzaldehyde,"(0, 11)",0
+2-Nitrobenzaldehyde,"(1, 12)",0
+2-Nitrobenzaldehyde,"(2, 13)",1
+2-Nitrobenzaldehyde,"(5, 14)",0
+2-Nitrobenzaldehyde,"(6, 15)",0
+2-Nitrophenol,"(0, 1)",1
+2-Nitrophenol,"(1, 2)",0
+2-Nitrophenol,"(1, 6)",1
+2-Nitrophenol,"(2, 3)",1
+2-Nitrophenol,"(3, 4)",1
+2-Nitrophenol,"(4, 5)",0
+2-Nitrophenol,"(5, 6)",1
+2-Nitrophenol,"(6, 7)",0
+2-Nitrophenol,"(7, 8)",1
+2-Nitrophenol,"(7, 9)",1
+2-Nitrophenol,"(0, 10)",0
+2-Nitrophenol,"(2, 11)",1
+2-Nitrophenol,"(3, 12)",1
+2-Nitrophenol,"(4, 13)",1
+2-Nitrophenol,"(5, 14)",1
+2-Nitrotoluene,"(0, 2)",1
+2-Nitrotoluene,"(1, 2)",0
+2-Nitrotoluene,"(2, 3)",0
+2-Nitrotoluene,"(3, 4)",1
+2-Nitrotoluene,"(3, 5)",1
+2-Nitrotoluene,"(4, 6)",1
+2-Nitrotoluene,"(4, 9)",0
+2-Nitrotoluene,"(5, 7)",1
+2-Nitrotoluene,"(6, 8)",0
+2-Nitrotoluene,"(7, 8)",0
+2-Nitrotoluene,"(5, 10)",0
+2-Nitrotoluene,"(6, 11)",1
+2-Nitrotoluene,"(7, 12)",0
+2-Nitrotoluene,"(8, 13)",1
+2-Nitrotoluene,"(9, 14)",0
+2-Nitrotoluene,"(9, 15)",0
+2-Nitrotoluene,"(9, 16)",0
+2-Phenylacetic acid,"(0, 1)",0
+2-Phenylacetic acid,"(1, 2)",1
+2-Phenylacetic acid,"(2, 3)",0
+2-Phenylacetic acid,"(2, 8)",0
+2-Phenylacetic acid,"(3, 4)",0
+2-Phenylacetic acid,"(4, 5)",0
+2-Phenylacetic acid,"(5, 6)",0
+2-Phenylacetic acid,"(5, 7)",1
+2-Phenylacetic acid,"(7, 8)",0
+2-Phenylacetic acid,"(0, 9)",1
+2-Phenylacetic acid,"(0, 10)",0
+2-Phenylacetic acid,"(0, 11)",1
+2-Phenylacetic acid,"(3, 12)",0
+2-Phenylacetic acid,"(4, 13)",1
+2-Phenylacetic acid,"(6, 14)",1
+2-Phenylacetic acid,"(6, 15)",1
+2-Phenylacetic acid,"(7, 16)",1
+2-Phenylacetic acid,"(8, 17)",1
+2-Phenylpropane,"(0, 1)",1
+2-Phenylpropane,"(1, 2)",1
+2-Phenylpropane,"(1, 3)",0
+2-Phenylpropane,"(3, 4)",1
+2-Phenylpropane,"(3, 8)",1
+2-Phenylpropane,"(4, 5)",0
+2-Phenylpropane,"(5, 6)",0
+2-Phenylpropane,"(6, 7)",1
+2-Phenylpropane,"(7, 8)",1
+2-Phenylpropane,"(0, 9)",0
+2-Phenylpropane,"(0, 10)",0
+2-Phenylpropane,"(0, 11)",0
+2-Phenylpropane,"(1, 12)",0
+2-Phenylpropane,"(2, 13)",1
+2-Phenylpropane,"(2, 14)",0
+2-Phenylpropane,"(2, 15)",0
+2-Phenylpropane,"(4, 16)",1
+2-Phenylpropane,"(5, 17)",1
+2-Phenylpropane,"(6, 18)",0
+2-Phenylpropane,"(7, 19)",1
+2-Phenylpropane,"(8, 20)",0
+2-tert-Butylphenol,"(0, 3)",0
+2-tert-Butylphenol,"(1, 2)",1
+2-tert-Butylphenol,"(1, 3)",0
+2-tert-Butylphenol,"(1, 4)",1
+2-tert-Butylphenol,"(2, 8)",0
+2-tert-Butylphenol,"(2, 9)",1
+2-tert-Butylphenol,"(2, 10)",0
+2-tert-Butylphenol,"(3, 5)",1
+2-tert-Butylphenol,"(4, 6)",1
+2-tert-Butylphenol,"(5, 7)",1
+2-tert-Butylphenol,"(6, 7)",1
+2-tert-Butylphenol,"(0, 11)",1
+2-tert-Butylphenol,"(4, 12)",0
+2-tert-Butylphenol,"(5, 13)",1
+2-tert-Butylphenol,"(6, 14)",1
+2-tert-Butylphenol,"(7, 15)",1
+2-tert-Butylphenol,"(8, 16)",1
+2-tert-Butylphenol,"(8, 17)",0
+2-tert-Butylphenol,"(8, 18)",1
+2-tert-Butylphenol,"(9, 19)",1
+2-tert-Butylphenol,"(9, 20)",0
+2-tert-Butylphenol,"(9, 21)",1
+2-tert-Butylphenol,"(10, 22)",1
+2-tert-Butylphenol,"(10, 23)",1
+2-tert-Butylphenol,"(10, 24)",1
+24-Dichlorobiphenyl,"(0, 4)",0
+24-Dichlorobiphenyl,"(1, 12)",1
+24-Dichlorobiphenyl,"(2, 3)",0
+24-Dichlorobiphenyl,"(2, 4)",1
+24-Dichlorobiphenyl,"(2, 5)",1
+24-Dichlorobiphenyl,"(3, 6)",1
+24-Dichlorobiphenyl,"(3, 7)",1
+24-Dichlorobiphenyl,"(4, 8)",1
+24-Dichlorobiphenyl,"(5, 9)",0
+24-Dichlorobiphenyl,"(6, 10)",1
+24-Dichlorobiphenyl,"(7, 11)",0
+24-Dichlorobiphenyl,"(8, 12)",1
+24-Dichlorobiphenyl,"(9, 12)",0
+24-Dichlorobiphenyl,"(10, 13)",0
+24-Dichlorobiphenyl,"(11, 13)",0
+24-Dichlorobiphenyl,"(5, 14)",0
+24-Dichlorobiphenyl,"(6, 15)",1
+24-Dichlorobiphenyl,"(7, 16)",0
+24-Dichlorobiphenyl,"(8, 17)",0
+24-Dichlorobiphenyl,"(9, 18)",0
+24-Dichlorobiphenyl,"(10, 19)",0
+24-Dichlorobiphenyl,"(11, 20)",1
+24-Dichlorobiphenyl,"(13, 21)",0
+24-Dichlorophenol,"(0, 1)",0
+24-Dichlorophenol,"(1, 2)",1
+24-Dichlorophenol,"(1, 7)",1
+24-Dichlorophenol,"(2, 3)",0
+24-Dichlorophenol,"(3, 4)",1
+24-Dichlorophenol,"(4, 5)",1
+24-Dichlorophenol,"(4, 6)",0
+24-Dichlorophenol,"(6, 7)",0
+24-Dichlorophenol,"(7, 8)",0
+24-Dichlorophenol,"(0, 9)",1
+24-Dichlorophenol,"(2, 10)",0
+24-Dichlorophenol,"(3, 11)",1
+24-Dichlorophenol,"(6, 12)",0
+246-Trichlorophenol,"(0, 1)",0
+246-Trichlorophenol,"(1, 2)",0
+246-Trichlorophenol,"(1, 8)",0
+246-Trichlorophenol,"(2, 3)",0
+246-Trichlorophenol,"(2, 4)",1
+246-Trichlorophenol,"(4, 5)",0
+246-Trichlorophenol,"(5, 6)",1
+246-Trichlorophenol,"(5, 7)",0
+246-Trichlorophenol,"(7, 8)",0
+246-Trichlorophenol,"(8, 9)",0
+246-Trichlorophenol,"(0, 10)",1
+246-Trichlorophenol,"(4, 11)",1
+246-Trichlorophenol,"(7, 12)",1
+3-Aminotoluene,"(0, 1)",1
+3-Aminotoluene,"(1, 2)",1
+3-Aminotoluene,"(1, 7)",0
+3-Aminotoluene,"(2, 3)",1
+3-Aminotoluene,"(3, 4)",1
+3-Aminotoluene,"(4, 5)",1
+3-Aminotoluene,"(5, 6)",1
+3-Aminotoluene,"(5, 7)",0
+3-Aminotoluene,"(0, 8)",0
+3-Aminotoluene,"(0, 9)",0
+3-Aminotoluene,"(0, 10)",0
+3-Aminotoluene,"(2, 11)",1
+3-Aminotoluene,"(3, 12)",0
+3-Aminotoluene,"(4, 13)",0
+3-Aminotoluene,"(6, 14)",1
+3-Aminotoluene,"(6, 15)",1
+3-Aminotoluene,"(7, 16)",0
+3-ethylacetophenone,"(0, 1)",1
+3-ethylacetophenone,"(1, 2)",0
+3-ethylacetophenone,"(2, 3)",0
+3-ethylacetophenone,"(3, 4)",1
+3-ethylacetophenone,"(4, 5)",1
+3-ethylacetophenone,"(5, 6)",0
+3-ethylacetophenone,"(6, 7)",1
+3-ethylacetophenone,"(2, 7)",1
+3-ethylacetophenone,"(6, 8)",0
+3-ethylacetophenone,"(8, 9)",0
+3-ethylacetophenone,"(8, 10)",1
+3-ethylacetophenone,"(0, 11)",1
+3-ethylacetophenone,"(0, 12)",1
+3-ethylacetophenone,"(0, 13)",1
+3-ethylacetophenone,"(1, 14)",1
+3-ethylacetophenone,"(1, 15)",1
+3-ethylacetophenone,"(3, 16)",0
+3-ethylacetophenone,"(4, 17)",0
+3-ethylacetophenone,"(5, 18)",0
+3-ethylacetophenone,"(7, 19)",0
+3-ethylacetophenone,"(9, 20)",0
+3-ethylacetophenone,"(9, 21)",1
+3-ethylacetophenone,"(9, 22)",1
+3-Methylaniline,"(0, 1)",1
+3-Methylaniline,"(1, 2)",0
+3-Methylaniline,"(1, 3)",1
+3-Methylaniline,"(2, 4)",0
+3-Methylaniline,"(2, 7)",1
+3-Methylaniline,"(3, 5)",1
+3-Methylaniline,"(4, 6)",0
+3-Methylaniline,"(5, 6)",1
+3-Methylaniline,"(0, 8)",1
+3-Methylaniline,"(0, 9)",1
+3-Methylaniline,"(3, 10)",0
+3-Methylaniline,"(4, 11)",1
+3-Methylaniline,"(5, 12)",1
+3-Methylaniline,"(6, 13)",0
+3-Methylaniline,"(7, 14)",1
+3-Methylaniline,"(7, 15)",0
+3-Methylaniline,"(7, 16)",0
+3-Nitrotoluene,"(0, 1)",0
+3-Nitrotoluene,"(1, 2)",1
+3-Nitrotoluene,"(1, 6)",0
+3-Nitrotoluene,"(2, 3)",1
+3-Nitrotoluene,"(3, 4)",1
+3-Nitrotoluene,"(4, 5)",1
+3-Nitrotoluene,"(5, 6)",0
+3-Nitrotoluene,"(5, 7)",1
+3-Nitrotoluene,"(7, 8)",1
+3-Nitrotoluene,"(7, 9)",1
+3-Nitrotoluene,"(0, 10)",0
+3-Nitrotoluene,"(0, 11)",1
+3-Nitrotoluene,"(0, 12)",0
+3-Nitrotoluene,"(2, 13)",1
+3-Nitrotoluene,"(3, 14)",0
+3-Nitrotoluene,"(4, 15)",1
+3-Nitrotoluene,"(6, 16)",1
+3-Phenylpropionic acid,"(0, 1)",0
+3-Phenylpropionic acid,"(0, 5)",0
+3-Phenylpropionic acid,"(1, 2)",1
+3-Phenylpropionic acid,"(2, 3)",0
+3-Phenylpropionic acid,"(3, 4)",1
+3-Phenylpropionic acid,"(3, 6)",0
+3-Phenylpropionic acid,"(4, 5)",0
+3-Phenylpropionic acid,"(6, 7)",0
+3-Phenylpropionic acid,"(7, 8)",1
+3-Phenylpropionic acid,"(8, 9)",0
+3-Phenylpropionic acid,"(8, 10)",1
+3-Phenylpropionic acid,"(0, 11)",0
+3-Phenylpropionic acid,"(1, 12)",0
+3-Phenylpropionic acid,"(2, 13)",0
+3-Phenylpropionic acid,"(4, 14)",0
+3-Phenylpropionic acid,"(5, 15)",1
+3-Phenylpropionic acid,"(6, 16)",0
+3-Phenylpropionic acid,"(6, 17)",0
+3-Phenylpropionic acid,"(7, 18)",1
+3-Phenylpropionic acid,"(7, 19)",1
+3-Phenylpropionic acid,"(10, 20)",1
+4-Aminoacetophenone,"(0, 1)",0
+4-Aminoacetophenone,"(1, 2)",1
+4-Aminoacetophenone,"(1, 9)",1
+4-Aminoacetophenone,"(2, 3)",1
+4-Aminoacetophenone,"(2, 7)",1
+4-Aminoacetophenone,"(3, 4)",0
+4-Aminoacetophenone,"(4, 5)",0
+4-Aminoacetophenone,"(5, 6)",0
+4-Aminoacetophenone,"(5, 8)",1
+4-Aminoacetophenone,"(6, 7)",0
+4-Aminoacetophenone,"(0, 10)",1
+4-Aminoacetophenone,"(0, 11)",1
+4-Aminoacetophenone,"(0, 12)",0
+4-Aminoacetophenone,"(3, 13)",0
+4-Aminoacetophenone,"(4, 14)",0
+4-Aminoacetophenone,"(6, 15)",1
+4-Aminoacetophenone,"(7, 16)",1
+4-Aminoacetophenone,"(8, 17)",0
+4-Aminoacetophenone,"(8, 18)",0
+4-Aminotoluene,"(0, 4)",1
+4-Aminotoluene,"(0, 1)",0
+4-Aminotoluene,"(1, 6)",1
+4-Aminotoluene,"(2, 6)",1
+4-Aminotoluene,"(2, 3)",1
+4-Aminotoluene,"(3, 4)",1
+4-Aminotoluene,"(4, 5)",1
+4-Aminotoluene,"(6, 7)",0
+4-Aminotoluene,"(0, 8)",1
+4-Aminotoluene,"(1, 9)",1
+4-Aminotoluene,"(2, 10)",0
+4-Aminotoluene,"(3, 11)",0
+4-Aminotoluene,"(5, 12)",1
+4-Aminotoluene,"(5, 13)",1
+4-Aminotoluene,"(7, 14)",0
+4-Aminotoluene,"(7, 15)",1
+4-Aminotoluene,"(7, 16)",0
+4-Biphenylamine,"(0, 1)",1
+4-Biphenylamine,"(1, 2)",0
+4-Biphenylamine,"(1, 6)",1
+4-Biphenylamine,"(2, 3)",1
+4-Biphenylamine,"(3, 4)",1
+4-Biphenylamine,"(4, 5)",0
+4-Biphenylamine,"(4, 7)",0
+4-Biphenylamine,"(5, 6)",1
+4-Biphenylamine,"(7, 8)",0
+4-Biphenylamine,"(7, 12)",0
+4-Biphenylamine,"(8, 9)",0
+4-Biphenylamine,"(9, 10)",0
+4-Biphenylamine,"(10, 11)",0
+4-Biphenylamine,"(11, 12)",0
+4-Biphenylamine,"(0, 13)",0
+4-Biphenylamine,"(0, 14)",1
+4-Biphenylamine,"(2, 15)",1
+4-Biphenylamine,"(3, 16)",0
+4-Biphenylamine,"(5, 17)",1
+4-Biphenylamine,"(6, 18)",1
+4-Biphenylamine,"(8, 19)",0
+4-Biphenylamine,"(9, 20)",0
+4-Biphenylamine,"(10, 21)",1
+4-Biphenylamine,"(11, 22)",1
+4-Biphenylamine,"(12, 23)",0
+4-Bromoaniline,"(0, 1)",1
+4-Bromoaniline,"(1, 2)",0
+4-Bromoaniline,"(1, 7)",0
+4-Bromoaniline,"(2, 3)",0
+4-Bromoaniline,"(3, 4)",0
+4-Bromoaniline,"(4, 5)",1
+4-Bromoaniline,"(4, 6)",0
+4-Bromoaniline,"(6, 7)",0
+4-Bromoaniline,"(0, 8)",1
+4-Bromoaniline,"(0, 9)",0
+4-Bromoaniline,"(2, 10)",1
+4-Bromoaniline,"(3, 11)",0
+4-Bromoaniline,"(6, 12)",0
+4-Bromoaniline,"(7, 13)",1
+4-Chloroaniline,"(0, 1)",1
+4-Chloroaniline,"(1, 2)",1
+4-Chloroaniline,"(1, 6)",1
+4-Chloroaniline,"(2, 3)",1
+4-Chloroaniline,"(3, 4)",1
+4-Chloroaniline,"(4, 5)",1
+4-Chloroaniline,"(4, 7)",0
+4-Chloroaniline,"(5, 6)",1
+4-Chloroaniline,"(0, 8)",0
+4-Chloroaniline,"(0, 9)",1
+4-Chloroaniline,"(2, 10)",1
+4-Chloroaniline,"(3, 11)",1
+4-Chloroaniline,"(5, 12)",1
+4-Chloroaniline,"(6, 13)",1
+4-Chlorobiphenyl,"(0, 1)",0
+4-Chlorobiphenyl,"(1, 2)",1
+4-Chlorobiphenyl,"(1, 6)",0
+4-Chlorobiphenyl,"(2, 3)",1
+4-Chlorobiphenyl,"(3, 4)",1
+4-Chlorobiphenyl,"(4, 5)",1
+4-Chlorobiphenyl,"(4, 7)",1
+4-Chlorobiphenyl,"(5, 6)",0
+4-Chlorobiphenyl,"(7, 8)",0
+4-Chlorobiphenyl,"(7, 12)",0
+4-Chlorobiphenyl,"(8, 9)",0
+4-Chlorobiphenyl,"(9, 10)",1
+4-Chlorobiphenyl,"(10, 11)",1
+4-Chlorobiphenyl,"(11, 12)",1
+4-Chlorobiphenyl,"(0, 13)",0
+4-Chlorobiphenyl,"(0, 14)",0
+4-Chlorobiphenyl,"(2, 15)",0
+4-Chlorobiphenyl,"(3, 16)",1
+4-Chlorobiphenyl,"(5, 17)",1
+4-Chlorobiphenyl,"(6, 18)",0
+4-Chlorobiphenyl,"(8, 19)",0
+4-Chlorobiphenyl,"(9, 20)",0
+4-Chlorobiphenyl,"(10, 21)",1
+4-Chlorobiphenyl,"(11, 22)",1
+4-Chlorobiphenyl,"(12, 23)",0
+4-Chlorophenol,"(0, 1)",0
+4-Chlorophenol,"(1, 2)",0
+4-Chlorophenol,"(1, 6)",1
+4-Chlorophenol,"(2, 3)",1
+4-Chlorophenol,"(3, 4)",1
+4-Chlorophenol,"(4, 5)",1
+4-Chlorophenol,"(4, 7)",1
+4-Chlorophenol,"(5, 6)",1
+4-Chlorophenol,"(0, 8)",0
+4-Chlorophenol,"(2, 9)",1
+4-Chlorophenol,"(3, 10)",0
+4-Chlorophenol,"(5, 11)",0
+4-Chlorophenol,"(6, 12)",0
+4-EthylAniline,"(0, 1)",0
+4-EthylAniline,"(1, 2)",0
+4-EthylAniline,"(1, 8)",0
+4-EthylAniline,"(2, 3)",1
+4-EthylAniline,"(3, 4)",1
+4-EthylAniline,"(4, 5)",1
+4-EthylAniline,"(4, 7)",1
+4-EthylAniline,"(5, 6)",1
+4-EthylAniline,"(7, 8)",0
+4-EthylAniline,"(0, 9)",1
+4-EthylAniline,"(0, 10)",0
+4-EthylAniline,"(2, 11)",1
+4-EthylAniline,"(3, 12)",0
+4-EthylAniline,"(5, 13)",1
+4-EthylAniline,"(5, 14)",0
+4-EthylAniline,"(6, 15)",1
+4-EthylAniline,"(6, 16)",1
+4-EthylAniline,"(6, 17)",0
+4-EthylAniline,"(7, 18)",0
+4-EthylAniline,"(8, 19)",1
+4-Ethylphenol,"(0, 2)",0
+4-Ethylphenol,"(1, 4)",0
+4-Ethylphenol,"(1, 6)",1
+4-Ethylphenol,"(1, 7)",1
+4-Ethylphenol,"(2, 3)",1
+4-Ethylphenol,"(2, 5)",0
+4-Ethylphenol,"(3, 4)",0
+4-Ethylphenol,"(5, 6)",0
+4-Ethylphenol,"(7, 8)",1
+4-Ethylphenol,"(0, 9)",1
+4-Ethylphenol,"(3, 10)",1
+4-Ethylphenol,"(4, 11)",0
+4-Ethylphenol,"(5, 12)",0
+4-Ethylphenol,"(6, 13)",0
+4-Ethylphenol,"(7, 14)",1
+4-Ethylphenol,"(7, 15)",0
+4-Ethylphenol,"(8, 16)",1
+4-Ethylphenol,"(8, 17)",1
+4-Ethylphenol,"(8, 18)",1
+4-Iodoaniline,"(0, 1)",0
+4-Iodoaniline,"(0, 5)",0
+4-Iodoaniline,"(1, 2)",1
+4-Iodoaniline,"(2, 3)",0
+4-Iodoaniline,"(2, 7)",1
+4-Iodoaniline,"(3, 4)",0
+4-Iodoaniline,"(4, 5)",0
+4-Iodoaniline,"(5, 6)",1
+4-Iodoaniline,"(0, 8)",0
+4-Iodoaniline,"(1, 9)",0
+4-Iodoaniline,"(3, 10)",1
+4-Iodoaniline,"(4, 11)",1
+4-Iodoaniline,"(7, 12)",1
+4-Iodoaniline,"(7, 13)",1
+4-Isopropylphenol,"(0, 1)",0
+4-Isopropylphenol,"(1, 2)",1
+4-Isopropylphenol,"(1, 3)",1
+4-Isopropylphenol,"(3, 4)",1
+4-Isopropylphenol,"(3, 8)",0
+4-Isopropylphenol,"(4, 5)",0
+4-Isopropylphenol,"(5, 6)",1
+4-Isopropylphenol,"(6, 7)",1
+4-Isopropylphenol,"(6, 9)",0
+4-Isopropylphenol,"(7, 8)",0
+4-Isopropylphenol,"(0, 10)",1
+4-Isopropylphenol,"(0, 11)",0
+4-Isopropylphenol,"(0, 12)",0
+4-Isopropylphenol,"(1, 13)",0
+4-Isopropylphenol,"(2, 14)",0
+4-Isopropylphenol,"(2, 15)",0
+4-Isopropylphenol,"(2, 16)",1
+4-Isopropylphenol,"(4, 17)",0
+4-Isopropylphenol,"(5, 18)",0
+4-Isopropylphenol,"(7, 19)",0
+4-Isopropylphenol,"(8, 20)",0
+4-Isopropylphenol,"(9, 21)",1
+4-Methoxybenzaldehyde,"(0, 1)",0
+4-Methoxybenzaldehyde,"(1, 2)",1
+4-Methoxybenzaldehyde,"(2, 3)",1
+4-Methoxybenzaldehyde,"(2, 9)",0
+4-Methoxybenzaldehyde,"(3, 4)",0
+4-Methoxybenzaldehyde,"(4, 5)",1
+4-Methoxybenzaldehyde,"(5, 6)",1
+4-Methoxybenzaldehyde,"(5, 8)",1
+4-Methoxybenzaldehyde,"(6, 7)",1
+4-Methoxybenzaldehyde,"(8, 9)",1
+4-Methoxybenzaldehyde,"(1, 10)",0
+4-Methoxybenzaldehyde,"(3, 11)",0
+4-Methoxybenzaldehyde,"(4, 12)",1
+4-Methoxybenzaldehyde,"(7, 13)",1
+4-Methoxybenzaldehyde,"(7, 14)",1
+4-Methoxybenzaldehyde,"(7, 15)",0
+4-Methoxybenzaldehyde,"(8, 16)",1
+4-Methoxybenzaldehyde,"(9, 17)",0
+4-methylacetophenone,"(0, 1)",0
+4-methylacetophenone,"(1, 2)",1
+4-methylacetophenone,"(1, 3)",0
+4-methylacetophenone,"(3, 4)",0
+4-methylacetophenone,"(3, 9)",0
+4-methylacetophenone,"(4, 5)",0
+4-methylacetophenone,"(5, 6)",1
+4-methylacetophenone,"(6, 7)",1
+4-methylacetophenone,"(6, 8)",1
+4-methylacetophenone,"(8, 9)",1
+4-methylacetophenone,"(0, 10)",0
+4-methylacetophenone,"(0, 11)",0
+4-methylacetophenone,"(0, 12)",0
+4-methylacetophenone,"(4, 13)",0
+4-methylacetophenone,"(5, 14)",1
+4-methylacetophenone,"(7, 15)",1
+4-methylacetophenone,"(7, 16)",1
+4-methylacetophenone,"(7, 17)",0
+4-methylacetophenone,"(8, 18)",1
+4-methylacetophenone,"(9, 19)",0
+4-Methylaniline,"(0, 4)",1
+4-Methylaniline,"(0, 1)",1
+4-Methylaniline,"(1, 6)",1
+4-Methylaniline,"(2, 6)",1
+4-Methylaniline,"(2, 3)",0
+4-Methylaniline,"(3, 4)",0
+4-Methylaniline,"(4, 5)",1
+4-Methylaniline,"(6, 7)",0
+4-Methylaniline,"(0, 8)",0
+4-Methylaniline,"(1, 9)",0
+4-Methylaniline,"(2, 10)",1
+4-Methylaniline,"(3, 11)",0
+4-Methylaniline,"(5, 12)",0
+4-Methylaniline,"(5, 13)",0
+4-Methylaniline,"(7, 14)",1
+4-Methylaniline,"(7, 15)",1
+4-Methylaniline,"(7, 16)",0
+4-Nitroaniline,"(0, 1)",0
+4-Nitroaniline,"(1, 2)",1
+4-Nitroaniline,"(1, 6)",0
+4-Nitroaniline,"(2, 3)",1
+4-Nitroaniline,"(3, 4)",0
+4-Nitroaniline,"(4, 5)",1
+4-Nitroaniline,"(4, 7)",0
+4-Nitroaniline,"(5, 6)",0
+4-Nitroaniline,"(7, 8)",1
+4-Nitroaniline,"(7, 9)",1
+4-Nitroaniline,"(0, 10)",1
+4-Nitroaniline,"(0, 11)",1
+4-Nitroaniline,"(2, 12)",0
+4-Nitroaniline,"(3, 13)",0
+4-Nitroaniline,"(5, 14)",0
+4-Nitroaniline,"(6, 15)",0
+4-Nitrobenzaldehyde,"(0, 1)",0
+4-Nitrobenzaldehyde,"(0, 5)",0
+4-Nitrobenzaldehyde,"(1, 2)",0
+4-Nitrobenzaldehyde,"(2, 3)",1
+4-Nitrobenzaldehyde,"(2, 8)",0
+4-Nitrobenzaldehyde,"(3, 4)",1
+4-Nitrobenzaldehyde,"(4, 5)",1
+4-Nitrobenzaldehyde,"(5, 6)",0
+4-Nitrobenzaldehyde,"(6, 7)",0
+4-Nitrobenzaldehyde,"(8, 9)",0
+4-Nitrobenzaldehyde,"(8, 10)",1
+4-Nitrobenzaldehyde,"(0, 11)",0
+4-Nitrobenzaldehyde,"(1, 12)",0
+4-Nitrobenzaldehyde,"(3, 13)",1
+4-Nitrobenzaldehyde,"(4, 14)",1
+4-Nitrobenzaldehyde,"(6, 15)",0
+4-Nitrotoluene,"(0, 1)",0
+4-Nitrotoluene,"(1, 2)",0
+4-Nitrotoluene,"(1, 6)",1
+4-Nitrotoluene,"(2, 3)",0
+4-Nitrotoluene,"(3, 4)",1
+4-Nitrotoluene,"(4, 5)",0
+4-Nitrotoluene,"(4, 7)",0
+4-Nitrotoluene,"(5, 6)",1
+4-Nitrotoluene,"(7, 8)",0
+4-Nitrotoluene,"(7, 9)",1
+4-Nitrotoluene,"(0, 10)",0
+4-Nitrotoluene,"(0, 11)",0
+4-Nitrotoluene,"(0, 12)",1
+4-Nitrotoluene,"(2, 13)",1
+4-Nitrotoluene,"(3, 14)",1
+4-Nitrotoluene,"(5, 15)",0
+4-Nitrotoluene,"(6, 16)",1
+4-Phenylbutyric acid,"(0, 1)",1
+4-Phenylbutyric acid,"(1, 2)",1
+4-Phenylbutyric acid,"(1, 3)",0
+4-Phenylbutyric acid,"(3, 4)",0
+4-Phenylbutyric acid,"(4, 5)",1
+4-Phenylbutyric acid,"(5, 6)",1
+4-Phenylbutyric acid,"(6, 7)",0
+4-Phenylbutyric acid,"(6, 11)",1
+4-Phenylbutyric acid,"(7, 8)",1
+4-Phenylbutyric acid,"(8, 9)",1
+4-Phenylbutyric acid,"(9, 10)",0
+4-Phenylbutyric acid,"(10, 11)",0
+4-Phenylbutyric acid,"(0, 12)",1
+4-Phenylbutyric acid,"(3, 13)",0
+4-Phenylbutyric acid,"(3, 14)",1
+4-Phenylbutyric acid,"(4, 15)",0
+4-Phenylbutyric acid,"(4, 16)",0
+4-Phenylbutyric acid,"(5, 17)",0
+4-Phenylbutyric acid,"(5, 18)",0
+4-Phenylbutyric acid,"(7, 19)",1
+4-Phenylbutyric acid,"(8, 20)",1
+4-Phenylbutyric acid,"(9, 21)",1
+4-Phenylbutyric acid,"(10, 22)",0
+4-Phenylbutyric acid,"(11, 23)",1
+4-tert-Butylphenol,"(0, 1)",0
+4-tert-Butylphenol,"(1, 2)",0
+4-tert-Butylphenol,"(1, 3)",1
+4-tert-Butylphenol,"(1, 4)",1
+4-tert-Butylphenol,"(4, 5)",1
+4-tert-Butylphenol,"(4, 9)",0
+4-tert-Butylphenol,"(5, 6)",0
+4-tert-Butylphenol,"(6, 7)",1
+4-tert-Butylphenol,"(7, 8)",0
+4-tert-Butylphenol,"(7, 10)",1
+4-tert-Butylphenol,"(8, 9)",1
+4-tert-Butylphenol,"(0, 11)",1
+4-tert-Butylphenol,"(0, 12)",1
+4-tert-Butylphenol,"(0, 13)",0
+4-tert-Butylphenol,"(2, 14)",0
+4-tert-Butylphenol,"(2, 15)",0
+4-tert-Butylphenol,"(2, 16)",0
+4-tert-Butylphenol,"(3, 17)",0
+4-tert-Butylphenol,"(3, 18)",1
+4-tert-Butylphenol,"(3, 19)",1
+4-tert-Butylphenol,"(5, 20)",1
+4-tert-Butylphenol,"(6, 21)",1
+4-tert-Butylphenol,"(8, 22)",1
+4-tert-Butylphenol,"(9, 23)",0
+4-tert-Butylphenol,"(10, 24)",0
+Acetophenone,"(0, 1)",0
+Acetophenone,"(1, 2)",1
+Acetophenone,"(1, 8)",0
+Acetophenone,"(2, 3)",1
+Acetophenone,"(2, 7)",0
+Acetophenone,"(3, 4)",0
+Acetophenone,"(4, 5)",0
+Acetophenone,"(5, 6)",0
+Acetophenone,"(6, 7)",1
+Acetophenone,"(0, 9)",1
+Acetophenone,"(0, 10)",0
+Acetophenone,"(0, 11)",1
+Acetophenone,"(3, 12)",0
+Acetophenone,"(4, 13)",1
+Acetophenone,"(5, 14)",0
+Acetophenone,"(6, 15)",0
+Acetophenone,"(7, 16)",1
+Adipic acid,"(0, 1)",0
+Adipic acid,"(1, 2)",1
+Adipic acid,"(1, 3)",0
+Adipic acid,"(3, 4)",0
+Adipic acid,"(4, 5)",0
+Adipic acid,"(5, 6)",0
+Adipic acid,"(6, 7)",0
+Adipic acid,"(7, 8)",1
+Adipic acid,"(7, 9)",0
+Adipic acid,"(0, 10)",0
+Adipic acid,"(3, 11)",0
+Adipic acid,"(3, 12)",0
+Adipic acid,"(4, 13)",0
+Adipic acid,"(4, 14)",0
+Adipic acid,"(5, 15)",0
+Adipic acid,"(5, 16)",1
+Adipic acid,"(6, 17)",1
+Adipic acid,"(6, 18)",1
+Adipic acid,"(8, 19)",0
+Aniline,"(0, 1)",0
+Aniline,"(0, 5)",1
+Aniline,"(1, 2)",0
+Aniline,"(2, 3)",1
+Aniline,"(3, 4)",1
+Aniline,"(3, 6)",1
+Aniline,"(4, 5)",1
+Aniline,"(0, 7)",1
+Aniline,"(1, 8)",1
+Aniline,"(2, 9)",1
+Aniline,"(4, 10)",1
+Aniline,"(5, 11)",1
+Aniline,"(6, 12)",0
+Aniline,"(6, 13)",1
+Anthracene,"(0, 1)",1
+Anthracene,"(0, 13)",1
+Anthracene,"(1, 2)",1
+Anthracene,"(2, 3)",1
+Anthracene,"(3, 4)",1
+Anthracene,"(3, 12)",0
+Anthracene,"(4, 5)",0
+Anthracene,"(5, 6)",1
+Anthracene,"(5, 10)",0
+Anthracene,"(6, 7)",0
+Anthracene,"(7, 8)",1
+Anthracene,"(8, 9)",0
+Anthracene,"(9, 10)",1
+Anthracene,"(10, 11)",0
+Anthracene,"(11, 12)",0
+Anthracene,"(12, 13)",1
+Anthracene,"(0, 14)",0
+Anthracene,"(1, 15)",1
+Anthracene,"(2, 16)",0
+Anthracene,"(4, 17)",0
+Anthracene,"(6, 18)",0
+Anthracene,"(7, 19)",0
+Anthracene,"(8, 20)",0
+Anthracene,"(9, 21)",1
+Anthracene,"(11, 22)",0
+Anthracene,"(13, 23)",0
+Benzaldehyde,"(0, 1)",1
+Benzaldehyde,"(1, 2)",1
+Benzaldehyde,"(1, 6)",1
+Benzaldehyde,"(2, 3)",0
+Benzaldehyde,"(3, 4)",0
+Benzaldehyde,"(4, 5)",0
+Benzaldehyde,"(5, 6)",0
+Benzaldehyde,"(0, 7)",0
+Benzaldehyde,"(2, 8)",1
+Benzaldehyde,"(3, 9)",0
+Benzaldehyde,"(4, 10)",0
+Benzaldehyde,"(5, 11)",0
+Benzaldehyde,"(6, 12)",1
+Benzoic Acid,"(0, 1)",0
+Benzoic Acid,"(1, 2)",1
+Benzoic Acid,"(1, 6)",1
+Benzoic Acid,"(2, 3)",0
+Benzoic Acid,"(3, 4)",0
+Benzoic Acid,"(4, 5)",0
+Benzoic Acid,"(5, 6)",1
+Benzoic Acid,"(0, 7)",1
+Benzoic Acid,"(2, 8)",1
+Benzoic Acid,"(3, 9)",1
+Benzoic Acid,"(4, 10)",1
+Benzoic Acid,"(5, 11)",1
+Benzoic Acid,"(6, 12)",0
+Biphenyl,"(0, 1)",0
+Biphenyl,"(0, 5)",1
+Biphenyl,"(1, 2)",0
+Biphenyl,"(2, 3)",0
+Biphenyl,"(3, 4)",0
+Biphenyl,"(3, 6)",0
+Biphenyl,"(4, 5)",1
+Biphenyl,"(6, 7)",1
+Biphenyl,"(6, 11)",1
+Biphenyl,"(7, 8)",1
+Biphenyl,"(8, 9)",1
+Biphenyl,"(9, 10)",0
+Biphenyl,"(10, 11)",0
+Biphenyl,"(0, 12)",1
+Biphenyl,"(1, 13)",0
+Biphenyl,"(2, 14)",1
+Biphenyl,"(4, 15)",0
+Biphenyl,"(5, 16)",1
+Biphenyl,"(7, 17)",0
+Biphenyl,"(8, 18)",1
+Biphenyl,"(9, 19)",1
+Biphenyl,"(10, 20)",1
+Biphenyl,"(11, 21)",1
+Bromobenzene,"(0, 1)",0
+Bromobenzene,"(1, 2)",1
+Bromobenzene,"(1, 3)",0
+Bromobenzene,"(2, 4)",0
+Bromobenzene,"(3, 5)",1
+Bromobenzene,"(4, 6)",1
+Bromobenzene,"(5, 6)",1
+Bromobenzene,"(2, 7)",0
+Bromobenzene,"(3, 8)",1
+Bromobenzene,"(4, 9)",1
+Bromobenzene,"(5, 10)",1
+Bromobenzene,"(6, 11)",1
+Butyric acid,"(0, 2)",1
+Butyric acid,"(0, 1)",1
+Butyric acid,"(2, 3)",1
+Butyric acid,"(3, 5)",1
+Butyric acid,"(3, 4)",0
+Butyric acid,"(0, 6)",0
+Butyric acid,"(0, 7)",1
+Butyric acid,"(1, 8)",1
+Butyric acid,"(1, 9)",1
+Butyric acid,"(1, 10)",1
+Butyric acid,"(2, 11)",1
+Butyric acid,"(2, 12)",1
+Butyric acid,"(5, 13)",0
+Catechol,"(0, 1)",1
+Catechol,"(1, 2)",1
+Catechol,"(1, 6)",0
+Catechol,"(2, 3)",1
+Catechol,"(3, 4)",1
+Catechol,"(4, 5)",0
+Catechol,"(5, 6)",0
+Catechol,"(6, 7)",0
+Catechol,"(0, 8)",1
+Catechol,"(2, 9)",0
+Catechol,"(3, 10)",0
+Catechol,"(4, 11)",1
+Catechol,"(5, 12)",1
+Catechol,"(7, 13)",1
+Chlorobenzene,"(0, 1)",1
+Chlorobenzene,"(1, 2)",1
+Chlorobenzene,"(1, 6)",0
+Chlorobenzene,"(2, 3)",1
+Chlorobenzene,"(3, 4)",0
+Chlorobenzene,"(4, 5)",0
+Chlorobenzene,"(5, 6)",1
+Chlorobenzene,"(2, 7)",1
+Chlorobenzene,"(3, 8)",0
+Chlorobenzene,"(4, 9)",0
+Chlorobenzene,"(5, 10)",0
+Chlorobenzene,"(6, 11)",1
+Cinnamaldehyde,"(0, 1)",1
+Cinnamaldehyde,"(1, 2)",1
+Cinnamaldehyde,"(3, 4)",1
+Cinnamaldehyde,"(2, 5)",0
+Cinnamaldehyde,"(5, 6)",1
+Cinnamaldehyde,"(6, 7)",1
+Cinnamaldehyde,"(7, 8)",0
+Cinnamaldehyde,"(8, 9)",0
+Cinnamaldehyde,"(4, 9)",0
+Cinnamaldehyde,"(3, 6)",0
+Cinnamaldehyde,"(1, 10)",0
+Cinnamaldehyde,"(2, 11)",0
+Cinnamaldehyde,"(3, 12)",1
+Cinnamaldehyde,"(4, 13)",1
+Cinnamaldehyde,"(5, 14)",1
+Cinnamaldehyde,"(7, 15)",0
+Cinnamaldehyde,"(8, 16)",0
+Cinnamaldehyde,"(9, 17)",0
+Cumene,"(0, 1)",1
+Cumene,"(1, 2)",0
+Cumene,"(1, 3)",0
+Cumene,"(3, 4)",1
+Cumene,"(3, 8)",1
+Cumene,"(4, 5)",1
+Cumene,"(5, 6)",0
+Cumene,"(6, 7)",1
+Cumene,"(7, 8)",1
+Cumene,"(0, 9)",0
+Cumene,"(0, 10)",0
+Cumene,"(0, 11)",0
+Cumene,"(1, 12)",0
+Cumene,"(2, 13)",1
+Cumene,"(2, 14)",0
+Cumene,"(2, 15)",1
+Cumene,"(4, 16)",1
+Cumene,"(5, 17)",1
+Cumene,"(6, 18)",0
+Cumene,"(7, 19)",0
+Cumene,"(8, 20)",1
+Ethylbenzene,"(0, 1)",0
+Ethylbenzene,"(1, 2)",0
+Ethylbenzene,"(2, 3)",1
+Ethylbenzene,"(2, 7)",1
+Ethylbenzene,"(3, 4)",1
+Ethylbenzene,"(4, 5)",0
+Ethylbenzene,"(5, 6)",0
+Ethylbenzene,"(6, 7)",1
+Ethylbenzene,"(0, 8)",0
+Ethylbenzene,"(0, 9)",1
+Ethylbenzene,"(0, 10)",0
+Ethylbenzene,"(1, 11)",0
+Ethylbenzene,"(1, 12)",1
+Ethylbenzene,"(3, 13)",0
+Ethylbenzene,"(4, 14)",1
+Ethylbenzene,"(5, 15)",1
+Ethylbenzene,"(6, 16)",1
+Ethylbenzene,"(7, 17)",1
+Glutaric acid,"(0, 1)",0
+Glutaric acid,"(1, 2)",0
+Glutaric acid,"(1, 3)",1
+Glutaric acid,"(3, 4)",0
+Glutaric acid,"(4, 5)",1
+Glutaric acid,"(5, 6)",0
+Glutaric acid,"(6, 7)",0
+Glutaric acid,"(7, 8)",0
+Glutaric acid,"(7, 9)",0
+Glutaric acid,"(0, 10)",0
+Glutaric acid,"(3, 11)",1
+Glutaric acid,"(3, 12)",0
+Glutaric acid,"(4, 13)",1
+Glutaric acid,"(4, 14)",1
+Glutaric acid,"(5, 15)",1
+Glutaric acid,"(5, 16)",1
+Glutaric acid,"(6, 17)",0
+Glutaric acid,"(6, 18)",0
+Glutaric acid,"(8, 19)",0
+Hexanoic acid,"(0, 1)",1
+Hexanoic acid,"(1, 2)",1
+Hexanoic acid,"(2, 3)",0
+Hexanoic acid,"(3, 4)",0
+Hexanoic acid,"(4, 5)",1
+Hexanoic acid,"(5, 6)",0
+Hexanoic acid,"(5, 7)",0
+Hexanoic acid,"(0, 8)",0
+Hexanoic acid,"(0, 9)",0
+Hexanoic acid,"(0, 10)",1
+Hexanoic acid,"(1, 11)",1
+Hexanoic acid,"(1, 12)",1
+Hexanoic acid,"(2, 13)",0
+Hexanoic acid,"(2, 14)",1
+Hexanoic acid,"(3, 15)",1
+Hexanoic acid,"(3, 16)",0
+Hexanoic acid,"(4, 17)",0
+Hexanoic acid,"(4, 18)",1
+Hexanoic acid,"(7, 19)",1
+Hydroquinone,"(0, 1)",1
+Hydroquinone,"(1, 2)",1
+Hydroquinone,"(1, 7)",1
+Hydroquinone,"(2, 3)",0
+Hydroquinone,"(3, 4)",0
+Hydroquinone,"(4, 5)",1
+Hydroquinone,"(4, 6)",0
+Hydroquinone,"(6, 7)",0
+Hydroquinone,"(0, 8)",0
+Hydroquinone,"(2, 9)",1
+Hydroquinone,"(3, 10)",0
+Hydroquinone,"(5, 11)",0
+Hydroquinone,"(6, 12)",1
+Hydroquinone,"(7, 13)",1
+Lauric acid,"(0, 9)",0
+Lauric acid,"(1, 9)",1
+Lauric acid,"(2, 3)",0
+Lauric acid,"(2, 4)",0
+Lauric acid,"(3, 5)",0
+Lauric acid,"(4, 6)",1
+Lauric acid,"(5, 7)",1
+Lauric acid,"(6, 8)",1
+Lauric acid,"(7, 9)",0
+Lauric acid,"(0, 10)",0
+Lauric acid,"(2, 11)",0
+Lauric acid,"(2, 12)",0
+Lauric acid,"(3, 13)",1
+Lauric acid,"(3, 14)",1
+Lauric acid,"(4, 15)",1
+Lauric acid,"(4, 16)",0
+Lauric acid,"(5, 17)",0
+Lauric acid,"(5, 18)",1
+Lauric acid,"(6, 19)",1
+Lauric acid,"(6, 20)",1
+Lauric acid,"(7, 21)",1
+Lauric acid,"(7, 22)",1
+Lauric acid,"(8, 23)",0
+Lauric acid,"(8, 24)",1
+Lauric acid,"(8, 25)",1
+m-Cresol,"(0, 1)",1
+m-Cresol,"(1, 3)",0
+m-Cresol,"(1, 4)",1
+m-Cresol,"(2, 3)",1
+m-Cresol,"(2, 5)",0
+m-Cresol,"(2, 7)",1
+m-Cresol,"(4, 6)",0
+m-Cresol,"(5, 6)",1
+m-Cresol,"(0, 8)",0
+m-Cresol,"(3, 9)",0
+m-Cresol,"(4, 10)",1
+m-Cresol,"(5, 11)",1
+m-Cresol,"(6, 12)",1
+m-Cresol,"(7, 13)",1
+m-Cresol,"(7, 14)",0
+m-Cresol,"(7, 15)",0
+m-Phenylenediamine,"(0, 1)",0
+m-Phenylenediamine,"(1, 2)",1
+m-Phenylenediamine,"(1, 6)",1
+m-Phenylenediamine,"(2, 3)",0
+m-Phenylenediamine,"(3, 4)",0
+m-Phenylenediamine,"(4, 5)",0
+m-Phenylenediamine,"(5, 6)",1
+m-Phenylenediamine,"(5, 7)",0
+m-Phenylenediamine,"(0, 8)",1
+m-Phenylenediamine,"(0, 9)",1
+m-Phenylenediamine,"(2, 10)",1
+m-Phenylenediamine,"(3, 11)",1
+m-Phenylenediamine,"(4, 12)",0
+m-Phenylenediamine,"(6, 13)",0
+m-Phenylenediamine,"(7, 14)",0
+m-Phenylenediamine,"(7, 15)",0
+m-Toluidine,"(0, 1)",0
+m-Toluidine,"(1, 2)",0
+m-Toluidine,"(1, 7)",1
+m-Toluidine,"(2, 3)",0
+m-Toluidine,"(3, 4)",0
+m-Toluidine,"(4, 5)",0
+m-Toluidine,"(5, 6)",1
+m-Toluidine,"(5, 7)",0
+m-Toluidine,"(0, 8)",1
+m-Toluidine,"(0, 9)",0
+m-Toluidine,"(0, 10)",0
+m-Toluidine,"(2, 11)",1
+m-Toluidine,"(3, 12)",1
+m-Toluidine,"(4, 13)",1
+m-Toluidine,"(6, 14)",1
+m-Toluidine,"(6, 15)",0
+m-Toluidine,"(7, 16)",1
+m-Xylene,"(0, 2)",0
+m-Xylene,"(0, 3)",1
+m-Xylene,"(0, 6)",1
+m-Xylene,"(1, 2)",1
+m-Xylene,"(1, 4)",0
+m-Xylene,"(1, 7)",1
+m-Xylene,"(3, 5)",1
+m-Xylene,"(4, 5)",0
+m-Xylene,"(2, 8)",1
+m-Xylene,"(3, 9)",1
+m-Xylene,"(4, 10)",1
+m-Xylene,"(5, 11)",0
+m-Xylene,"(6, 12)",0
+m-Xylene,"(6, 13)",1
+m-Xylene,"(6, 14)",0
+m-Xylene,"(7, 15)",1
+m-Xylene,"(7, 16)",1
+m-Xylene,"(7, 17)",1
+N-Methylaniline,"(0, 1)",0
+N-Methylaniline,"(1, 2)",0
+N-Methylaniline,"(2, 3)",1
+N-Methylaniline,"(2, 7)",0
+N-Methylaniline,"(3, 4)",1
+N-Methylaniline,"(4, 5)",0
+N-Methylaniline,"(5, 6)",1
+N-Methylaniline,"(6, 7)",1
+N-Methylaniline,"(0, 8)",1
+N-Methylaniline,"(0, 9)",0
+N-Methylaniline,"(0, 10)",0
+N-Methylaniline,"(1, 11)",1
+N-Methylaniline,"(3, 12)",0
+N-Methylaniline,"(4, 13)",0
+N-Methylaniline,"(5, 14)",0
+N-Methylaniline,"(6, 15)",1
+N-Methylaniline,"(7, 16)",0
+Naphthalene,"(0, 1)",1
+Naphthalene,"(0, 9)",0
+Naphthalene,"(1, 2)",0
+Naphthalene,"(2, 3)",1
+Naphthalene,"(3, 4)",0
+Naphthalene,"(3, 8)",1
+Naphthalene,"(4, 5)",0
+Naphthalene,"(5, 6)",0
+Naphthalene,"(6, 7)",1
+Naphthalene,"(7, 8)",1
+Naphthalene,"(8, 9)",1
+Naphthalene,"(0, 10)",0
+Naphthalene,"(1, 11)",0
+Naphthalene,"(2, 12)",0
+Naphthalene,"(4, 13)",1
+Naphthalene,"(5, 14)",1
+Naphthalene,"(6, 15)",0
+Naphthalene,"(7, 16)",0
+Naphthalene,"(9, 17)",0
+Nitrobenzene,"(0, 1)",0
+Nitrobenzene,"(0, 5)",1
+Nitrobenzene,"(1, 2)",0
+Nitrobenzene,"(2, 3)",0
+Nitrobenzene,"(3, 4)",0
+Nitrobenzene,"(3, 6)",1
+Nitrobenzene,"(4, 5)",0
+Nitrobenzene,"(6, 7)",1
+Nitrobenzene,"(6, 8)",0
+Nitrobenzene,"(0, 9)",1
+Nitrobenzene,"(1, 10)",1
+Nitrobenzene,"(2, 11)",1
+Nitrobenzene,"(4, 12)",0
+Nitrobenzene,"(5, 13)",1
+NN-Dimethylaniline,"(0, 1)",0
+NN-Dimethylaniline,"(1, 2)",1
+NN-Dimethylaniline,"(1, 3)",0
+NN-Dimethylaniline,"(3, 4)",1
+NN-Dimethylaniline,"(3, 8)",0
+NN-Dimethylaniline,"(4, 5)",1
+NN-Dimethylaniline,"(5, 6)",1
+NN-Dimethylaniline,"(6, 7)",0
+NN-Dimethylaniline,"(7, 8)",1
+NN-Dimethylaniline,"(0, 9)",1
+NN-Dimethylaniline,"(0, 10)",1
+NN-Dimethylaniline,"(0, 11)",0
+NN-Dimethylaniline,"(2, 12)",1
+NN-Dimethylaniline,"(2, 13)",1
+NN-Dimethylaniline,"(2, 14)",0
+NN-Dimethylaniline,"(4, 15)",1
+NN-Dimethylaniline,"(5, 16)",1
+NN-Dimethylaniline,"(6, 17)",0
+NN-Dimethylaniline,"(7, 18)",0
+NN-Dimethylaniline,"(8, 19)",1
+o-Anisidine,"(0, 1)",1
+o-Anisidine,"(1, 2)",0
+o-Anisidine,"(2, 3)",1
+o-Anisidine,"(2, 7)",1
+o-Anisidine,"(3, 4)",0
+o-Anisidine,"(4, 5)",0
+o-Anisidine,"(5, 6)",0
+o-Anisidine,"(6, 7)",0
+o-Anisidine,"(7, 8)",1
+o-Anisidine,"(0, 9)",1
+o-Anisidine,"(0, 10)",1
+o-Anisidine,"(0, 11)",0
+o-Anisidine,"(3, 12)",0
+o-Anisidine,"(4, 13)",1
+o-Anisidine,"(5, 14)",0
+o-Anisidine,"(6, 15)",1
+o-Anisidine,"(8, 16)",1
+o-Anisidine,"(8, 17)",1
+o-Chlorotoluene,"(0, 1)",1
+o-Chlorotoluene,"(1, 2)",0
+o-Chlorotoluene,"(1, 7)",1
+o-Chlorotoluene,"(2, 3)",0
+o-Chlorotoluene,"(2, 4)",0
+o-Chlorotoluene,"(4, 5)",0
+o-Chlorotoluene,"(5, 6)",1
+o-Chlorotoluene,"(6, 7)",0
+o-Chlorotoluene,"(0, 8)",0
+o-Chlorotoluene,"(0, 9)",1
+o-Chlorotoluene,"(0, 10)",1
+o-Chlorotoluene,"(4, 11)",0
+o-Chlorotoluene,"(5, 12)",0
+o-Chlorotoluene,"(6, 13)",1
+o-Chlorotoluene,"(7, 14)",0
+o-Cresol,"(0, 1)",1
+o-Cresol,"(1, 2)",0
+o-Cresol,"(1, 3)",1
+o-Cresol,"(2, 4)",0
+o-Cresol,"(2, 7)",0
+o-Cresol,"(3, 5)",0
+o-Cresol,"(4, 6)",1
+o-Cresol,"(5, 6)",1
+o-Cresol,"(0, 8)",0
+o-Cresol,"(3, 9)",0
+o-Cresol,"(4, 10)",1
+o-Cresol,"(5, 11)",0
+o-Cresol,"(6, 12)",1
+o-Cresol,"(7, 13)",0
+o-Cresol,"(7, 14)",0
+o-Cresol,"(7, 15)",1
+o-Phenylenediamine,"(0, 1)",0
+o-Phenylenediamine,"(1, 2)",1
+o-Phenylenediamine,"(1, 6)",0
+o-Phenylenediamine,"(2, 3)",1
+o-Phenylenediamine,"(3, 4)",1
+o-Phenylenediamine,"(4, 5)",1
+o-Phenylenediamine,"(5, 6)",0
+o-Phenylenediamine,"(6, 7)",0
+o-Phenylenediamine,"(0, 8)",0
+o-Phenylenediamine,"(0, 9)",0
+o-Phenylenediamine,"(2, 10)",1
+o-Phenylenediamine,"(3, 11)",1
+o-Phenylenediamine,"(4, 12)",1
+o-Phenylenediamine,"(5, 13)",0
+o-Phenylenediamine,"(7, 14)",0
+o-Phenylenediamine,"(7, 15)",0
+o-Toluidine,"(0, 1)",0
+o-Toluidine,"(1, 2)",0
+o-Toluidine,"(1, 3)",1
+o-Toluidine,"(2, 4)",0
+o-Toluidine,"(2, 7)",0
+o-Toluidine,"(3, 5)",1
+o-Toluidine,"(4, 6)",0
+o-Toluidine,"(5, 6)",0
+o-Toluidine,"(0, 8)",0
+o-Toluidine,"(0, 9)",1
+o-Toluidine,"(3, 10)",1
+o-Toluidine,"(4, 11)",0
+o-Toluidine,"(5, 12)",0
+o-Toluidine,"(6, 13)",0
+o-Toluidine,"(7, 14)",1
+o-Toluidine,"(7, 15)",0
+o-Toluidine,"(7, 16)",1
+o-Xylene,"(0, 1)",0
+o-Xylene,"(0, 2)",0
+o-Xylene,"(0, 6)",1
+o-Xylene,"(1, 3)",0
+o-Xylene,"(1, 7)",0
+o-Xylene,"(2, 4)",0
+o-Xylene,"(3, 5)",1
+o-Xylene,"(4, 5)",1
+o-Xylene,"(2, 8)",0
+o-Xylene,"(3, 9)",1
+o-Xylene,"(4, 10)",0
+o-Xylene,"(5, 11)",1
+o-Xylene,"(6, 12)",0
+o-Xylene,"(6, 13)",1
+o-Xylene,"(6, 14)",0
+o-Xylene,"(7, 15)",0
+o-Xylene,"(7, 16)",0
+o-Xylene,"(7, 17)",1
+Octanoic acid,"(0, 9)",1
+Octanoic acid,"(1, 9)",1
+Octanoic acid,"(2, 3)",1
+Octanoic acid,"(2, 4)",1
+Octanoic acid,"(3, 5)",1
+Octanoic acid,"(4, 6)",1
+Octanoic acid,"(5, 7)",1
+Octanoic acid,"(6, 8)",0
+Octanoic acid,"(7, 9)",0
+Octanoic acid,"(0, 10)",1
+Octanoic acid,"(2, 11)",1
+Octanoic acid,"(2, 12)",0
+Octanoic acid,"(3, 13)",0
+Octanoic acid,"(3, 14)",0
+Octanoic acid,"(4, 15)",0
+Octanoic acid,"(4, 16)",0
+Octanoic acid,"(5, 17)",0
+Octanoic acid,"(5, 18)",0
+Octanoic acid,"(6, 19)",0
+Octanoic acid,"(6, 20)",0
+Octanoic acid,"(7, 21)",0
+Octanoic acid,"(7, 22)",1
+Octanoic acid,"(8, 23)",1
+Octanoic acid,"(8, 24)",1
+Octanoic acid,"(8, 25)",1
+p-Anisidine,"(0, 1)",1
+p-Anisidine,"(1, 2)",0
+p-Anisidine,"(2, 3)",0
+p-Anisidine,"(2, 8)",0
+p-Anisidine,"(3, 4)",0
+p-Anisidine,"(4, 5)",0
+p-Anisidine,"(5, 6)",1
+p-Anisidine,"(5, 7)",0
+p-Anisidine,"(7, 8)",1
+p-Anisidine,"(0, 9)",1
+p-Anisidine,"(0, 10)",0
+p-Anisidine,"(0, 11)",1
+p-Anisidine,"(3, 12)",0
+p-Anisidine,"(4, 13)",1
+p-Anisidine,"(6, 14)",0
+p-Anisidine,"(6, 15)",1
+p-Anisidine,"(7, 16)",1
+p-Anisidine,"(8, 17)",0
+p-Chlorotoluene,"(0, 1)",0
+p-Chlorotoluene,"(1, 3)",1
+p-Chlorotoluene,"(1, 4)",0
+p-Chlorotoluene,"(2, 5)",0
+p-Chlorotoluene,"(2, 6)",1
+p-Chlorotoluene,"(2, 7)",1
+p-Chlorotoluene,"(3, 5)",1
+p-Chlorotoluene,"(4, 6)",0
+p-Chlorotoluene,"(3, 8)",1
+p-Chlorotoluene,"(4, 9)",1
+p-Chlorotoluene,"(5, 10)",0
+p-Chlorotoluene,"(6, 11)",1
+p-Chlorotoluene,"(7, 12)",0
+p-Chlorotoluene,"(7, 13)",1
+p-Chlorotoluene,"(7, 14)",1
+p-Cresol,"(0, 1)",0
+p-Cresol,"(1, 3)",0
+p-Cresol,"(1, 4)",1
+p-Cresol,"(2, 3)",1
+p-Cresol,"(2, 5)",1
+p-Cresol,"(2, 7)",0
+p-Cresol,"(4, 6)",0
+p-Cresol,"(5, 6)",0
+p-Cresol,"(0, 8)",0
+p-Cresol,"(3, 9)",0
+p-Cresol,"(4, 10)",0
+p-Cresol,"(5, 11)",1
+p-Cresol,"(6, 12)",0
+p-Cresol,"(7, 13)",0
+p-Cresol,"(7, 14)",0
+p-Cresol,"(7, 15)",0
+p-Phenylenediamine,"(0, 1)",0
+p-Phenylenediamine,"(1, 2)",1
+p-Phenylenediamine,"(1, 7)",1
+p-Phenylenediamine,"(2, 3)",1
+p-Phenylenediamine,"(3, 4)",0
+p-Phenylenediamine,"(4, 5)",0
+p-Phenylenediamine,"(4, 6)",0
+p-Phenylenediamine,"(6, 7)",0
+p-Phenylenediamine,"(0, 8)",0
+p-Phenylenediamine,"(0, 9)",1
+p-Phenylenediamine,"(2, 10)",0
+p-Phenylenediamine,"(3, 11)",1
+p-Phenylenediamine,"(5, 12)",0
+p-Phenylenediamine,"(5, 13)",0
+p-Phenylenediamine,"(6, 14)",1
+p-Phenylenediamine,"(7, 15)",1
+p-Toluidine,"(0, 4)",1
+p-Toluidine,"(0, 1)",0
+p-Toluidine,"(1, 6)",1
+p-Toluidine,"(2, 6)",1
+p-Toluidine,"(2, 3)",1
+p-Toluidine,"(3, 4)",1
+p-Toluidine,"(4, 5)",1
+p-Toluidine,"(6, 7)",1
+p-Toluidine,"(0, 8)",1
+p-Toluidine,"(1, 9)",0
+p-Toluidine,"(2, 10)",0
+p-Toluidine,"(3, 11)",1
+p-Toluidine,"(5, 12)",0
+p-Toluidine,"(5, 13)",0
+p-Toluidine,"(7, 14)",0
+p-Toluidine,"(7, 15)",1
+p-Toluidine,"(7, 16)",0
+p-Xylene,"(0, 2)",0
+p-Xylene,"(0, 5)",1
+p-Xylene,"(0, 6)",0
+p-Xylene,"(1, 3)",1
+p-Xylene,"(1, 4)",1
+p-Xylene,"(1, 7)",0
+p-Xylene,"(2, 3)",0
+p-Xylene,"(4, 5)",1
+p-Xylene,"(2, 8)",0
+p-Xylene,"(3, 9)",0
+p-Xylene,"(4, 10)",1
+p-Xylene,"(5, 11)",0
+p-Xylene,"(6, 12)",1
+p-Xylene,"(6, 13)",0
+p-Xylene,"(6, 14)",1
+p-Xylene,"(7, 15)",0
+p-Xylene,"(7, 16)",1
+p-Xylene,"(7, 17)",0
+Pentachlorophenol,"(0, 1)",0
+Pentachlorophenol,"(1, 2)",0
+Pentachlorophenol,"(1, 10)",0
+Pentachlorophenol,"(2, 3)",0
+Pentachlorophenol,"(2, 4)",0
+Pentachlorophenol,"(4, 5)",1
+Pentachlorophenol,"(4, 6)",1
+Pentachlorophenol,"(6, 7)",0
+Pentachlorophenol,"(6, 8)",1
+Pentachlorophenol,"(8, 9)",1
+Pentachlorophenol,"(8, 10)",0
+Pentachlorophenol,"(10, 11)",1
+Pentachlorophenol,"(0, 12)",1
+Phenanthrene,"(0, 1)",1
+Phenanthrene,"(0, 13)",1
+Phenanthrene,"(1, 2)",1
+Phenanthrene,"(2, 3)",1
+Phenanthrene,"(3, 4)",1
+Phenanthrene,"(3, 12)",0
+Phenanthrene,"(4, 5)",0
+Phenanthrene,"(5, 6)",1
+Phenanthrene,"(5, 10)",0
+Phenanthrene,"(6, 7)",1
+Phenanthrene,"(7, 8)",0
+Phenanthrene,"(8, 9)",1
+Phenanthrene,"(9, 10)",1
+Phenanthrene,"(10, 11)",1
+Phenanthrene,"(11, 12)",1
+Phenanthrene,"(12, 13)",0
+Phenanthrene,"(0, 14)",0
+Phenanthrene,"(1, 15)",1
+Phenanthrene,"(2, 16)",0
+Phenanthrene,"(4, 17)",1
+Phenanthrene,"(6, 18)",0
+Phenanthrene,"(7, 19)",0
+Phenanthrene,"(8, 20)",1
+Phenanthrene,"(9, 21)",1
+Phenanthrene,"(11, 22)",0
+Phenanthrene,"(13, 23)",1
+Phenol,"(0, 1)",1
+Phenol,"(1, 2)",1
+Phenol,"(1, 6)",0
+Phenol,"(2, 3)",1
+Phenol,"(3, 4)",1
+Phenol,"(4, 5)",1
+Phenol,"(5, 6)",1
+Phenol,"(0, 7)",0
+Phenol,"(2, 8)",0
+Phenol,"(3, 9)",0
+Phenol,"(4, 10)",1
+Phenol,"(5, 11)",1
+Phenol,"(6, 12)",0
+Piperonal,"(0, 3)",1
+Piperonal,"(0, 8)",1
+Piperonal,"(1, 4)",1
+Piperonal,"(1, 8)",1
+Piperonal,"(2, 10)",0
+Piperonal,"(3, 4)",0
+Piperonal,"(3, 5)",0
+Piperonal,"(4, 7)",0
+Piperonal,"(5, 6)",1
+Piperonal,"(6, 9)",0
+Piperonal,"(6, 10)",0
+Piperonal,"(7, 9)",0
+Piperonal,"(5, 11)",0
+Piperonal,"(7, 12)",1
+Piperonal,"(8, 13)",1
+Piperonal,"(8, 14)",1
+Piperonal,"(9, 15)",1
+Piperonal,"(10, 16)",0
+Propionic acid,"(0, 2)",1
+Propionic acid,"(1, 2)",1
+Propionic acid,"(2, 3)",1
+Propionic acid,"(3, 4)",0
+Propionic acid,"(1, 5)",0
+Propionic acid,"(3, 6)",1
+Propionic acid,"(3, 7)",0
+Propionic acid,"(4, 8)",0
+Propionic acid,"(4, 9)",0
+Propionic acid,"(4, 10)",0
+Resorcinol,"(0, 1)",1
+Resorcinol,"(1, 2)",0
+Resorcinol,"(1, 7)",1
+Resorcinol,"(2, 3)",1
+Resorcinol,"(3, 4)",1
+Resorcinol,"(4, 5)",0
+Resorcinol,"(5, 6)",1
+Resorcinol,"(5, 7)",0
+Resorcinol,"(0, 8)",0
+Resorcinol,"(2, 9)",0
+Resorcinol,"(3, 10)",1
+Resorcinol,"(4, 11)",1
+Resorcinol,"(6, 12)",0
+Resorcinol,"(7, 13)",0
+Styrene,"(0, 1)",0
+Styrene,"(1, 2)",0
+Styrene,"(2, 3)",1
+Styrene,"(2, 7)",1
+Styrene,"(3, 4)",0
+Styrene,"(4, 5)",0
+Styrene,"(5, 6)",0
+Styrene,"(6, 7)",1
+Styrene,"(0, 8)",1
+Styrene,"(0, 9)",0
+Styrene,"(1, 10)",1
+Styrene,"(3, 11)",0
+Styrene,"(4, 12)",0
+Styrene,"(5, 13)",1
+Styrene,"(6, 14)",0
+Styrene,"(7, 15)",0
+Succinic acid,"(0, 1)",1
+Succinic acid,"(1, 2)",1
+Succinic acid,"(1, 3)",1
+Succinic acid,"(3, 4)",1
+Succinic acid,"(4, 5)",0
+Succinic acid,"(5, 6)",1
+Succinic acid,"(5, 7)",0
+Succinic acid,"(0, 8)",0
+Succinic acid,"(3, 9)",1
+Succinic acid,"(3, 10)",1
+Succinic acid,"(4, 11)",1
+Succinic acid,"(4, 12)",1
+Succinic acid,"(6, 13)",1
+tert-Butylbenzene,"(0, 1)",0
+tert-Butylbenzene,"(1, 2)",0
+tert-Butylbenzene,"(1, 3)",0
+tert-Butylbenzene,"(1, 4)",1
+tert-Butylbenzene,"(4, 5)",0
+tert-Butylbenzene,"(4, 9)",1
+tert-Butylbenzene,"(5, 6)",1
+tert-Butylbenzene,"(6, 7)",0
+tert-Butylbenzene,"(7, 8)",1
+tert-Butylbenzene,"(8, 9)",1
+tert-Butylbenzene,"(0, 10)",1
+tert-Butylbenzene,"(0, 11)",0
+tert-Butylbenzene,"(0, 12)",1
+tert-Butylbenzene,"(2, 13)",0
+tert-Butylbenzene,"(2, 14)",0
+tert-Butylbenzene,"(2, 15)",1
+tert-Butylbenzene,"(3, 16)",1
+tert-Butylbenzene,"(3, 17)",0
+tert-Butylbenzene,"(3, 18)",0
+tert-Butylbenzene,"(5, 19)",1
+tert-Butylbenzene,"(6, 20)",1
+tert-Butylbenzene,"(7, 21)",1
+tert-Butylbenzene,"(8, 22)",0
+tert-Butylbenzene,"(9, 23)",1
+Toluene,"(0, 1)",0
+Toluene,"(0, 5)",0
+Toluene,"(1, 2)",0
+Toluene,"(2, 3)",0
+Toluene,"(3, 4)",1
+Toluene,"(4, 5)",1
+Toluene,"(4, 6)",0
+Toluene,"(0, 7)",0
+Toluene,"(1, 8)",0
+Toluene,"(2, 9)",0
+Toluene,"(3, 10)",0
+Toluene,"(5, 11)",1
+Toluene,"(6, 12)",1
+Toluene,"(6, 13)",1
+Toluene,"(6, 14)",1
+Valeric acid,"(0, 1)",0
+Valeric acid,"(1, 2)",1
+Valeric acid,"(2, 3)",1
+Valeric acid,"(3, 4)",1
+Valeric acid,"(4, 5)",1
+Valeric acid,"(4, 6)",1
+Valeric acid,"(0, 7)",0
+Valeric acid,"(0, 8)",0
+Valeric acid,"(0, 9)",0
+Valeric acid,"(1, 10)",0
+Valeric acid,"(1, 11)",1
+Valeric acid,"(2, 12)",0
+Valeric acid,"(2, 13)",0
+Valeric acid,"(3, 14)",0
+Valeric acid,"(3, 15)",1
+Valeric acid,"(5, 16)",0
+Vanillin,"(0, 1)",1
+Vanillin,"(1, 2)",1
+Vanillin,"(2, 3)",1
+Vanillin,"(2, 9)",1
+Vanillin,"(3, 4)",0
+Vanillin,"(4, 5)",1
+Vanillin,"(4, 7)",1
+Vanillin,"(5, 6)",0
+Vanillin,"(7, 8)",1
+Vanillin,"(8, 9)",1
+Vanillin,"(9, 10)",1
+Vanillin,"(0, 11)",1
+Vanillin,"(0, 12)",0
+Vanillin,"(0, 13)",0
+Vanillin,"(3, 14)",0
+Vanillin,"(5, 15)",0
+Vanillin,"(7, 16)",0
+Vanillin,"(8, 17)",1
+Vanillin,"(10, 18)",0
