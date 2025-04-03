@@ -1,3 +1,4 @@
+# main.py:
 from pathlib import Path
 import torch
 import torch.nn as nn
@@ -38,8 +39,14 @@ if __name__ == '__main__':
 
     dataset = MGDataset(root=config.data.root_dir, edge_target_csv=config.data.edge_target_csv, use_cache=config.data.use_cache, rdkit_config=config)
 
+    edge_classes = set()
+    for data in dataset:
+        if hasattr(data, 'edge_y') and data.edge_y is not None:
+            edge_classes.update(data.edge_y.tolist())
+    num_edge_targets = len(edge_classes)
+
     in_channels = dataset[0].x.shape[1]
-    out_channels = 2
+    out_channels = num_edge_targets
 
     torch.manual_seed(11)
 
@@ -74,18 +81,16 @@ if __name__ == '__main__':
     logger.info(f"Using device: {device}")
 
     trainer = Trainer(model, criterion, optimizer, step_lr, red_lr, early_stopping, config, device)
-    train_losses, valid_losses, maes, mses, r2s, explained_variances = trainer.train_and_validate(train_loader, valid_loader)
-    test_loss, test_mae, test_mse, test_r2, test_explained_variance, test_targets, test_predictions = trainer.test_epoch(test_loader, return_predictions=True)
+    train_losses, valid_losses, accuracies, precisions, recalls, f1s, aucs = trainer.train_and_validate(train_loader, valid_loader)
+    test_loss, test_accuracy, test_precision, test_recall, test_f1, test_auc, test_targets, test_predictions = trainer.test_epoch(test_loader, return_predictions=True)
 
     # Save test targets and predictions
     np.save('test_targets.npy', np.array(test_targets))
     np.save('test_predictions.npy', np.array(test_predictions))
 
-    logger.info(f'Test Loss: {test_loss:.4f}, MAE: {test_mae:.4f}, MSE: {test_mse:.4f}, R2: {test_r2:.4f}, Explained Variance: {test_explained_variance:.4f}')
+    logger.info(f'Test Loss: {test_loss:.4f}, Accuracy: {test_accuracy:.4f}, Precision: {test_precision:.4f}, Recall: {test_recall:.4f}, F1: {test_f1:.4f}, AUC: {test_auc:.4f}')
 
     # Plotting
     Plot.plot_losses(train_losses, valid_losses)
-    Plot.plot_metrics_vs_epoch(maes, mses, r2s, explained_variances)
+    Plot.plot_classification_metrics_vs_epoch(accuracies, precisions, recalls, f1s, aucs)
 
-
-    
